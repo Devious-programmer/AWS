@@ -1,4 +1,6 @@
 -   Get a notification when anew file upload to s3 
+
+
  The project is to create an AWS Lambda function that will send a notification to an SNS topic whenever a new file is uploaded to an S3 bucket. 
  This can be useful in scenarios where you want to monitor
  file uploads to your S3 bucket and be notified of any new files that are uploaded.
