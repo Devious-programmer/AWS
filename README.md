@@ -14,6 +14,8 @@
 
 This report provides a step-by-step guide on how to launch a Windows Server instance on AWS EC2. The process involves creating an EC2 instance, 
 configuring the necessary settings, and connecting to the instance using RDP.
+
+
 https://hot-hamburger-15d.notion.site/launch-a-Windows-Server-instance-on-AWS-EC2-5f9c3ffc58e64c26a662fb0fcce09266
 
 
